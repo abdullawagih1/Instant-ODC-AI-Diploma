@@ -1,0 +1,60 @@
+.--------------------------.
+|-Programming		   |
+|-Data Structure	   |
+|-Algorithms		   |
+|-OOP			   |
+|-Software Engineering	   |
+|-Operationg System	   |
+|-System Analysis	   |
+|-Database		   |
+|-Network		   |
+|-Artificial Intelligence  |
+|			   |
+'--------------------------'
+Programming
+ -Hardware Programming		-Software Programming
+
+Programming Paradigms
+ -OOP		-Functional		-Procedural
+
+-Software Programming
+   Binary System(0, 1) ---> Assembly ---> Programming Languages
+
+*Assembly is close to HW, it is used in drivers (mouse)
+
+
+Programming Languages
+.-------------------------------------------------------------------------------------------------------------------------------.
+| -High Level		| -Compiled		| -Open Source		| -Programming	    | -Typed	  | -General Purpose	|
+| -Low Level		| -Interpreted		| -Not Open Source	| -Scripted	    | -Not Typed  | -Specific Purpose	|
+'-------------------------------------------------------------------------------------------------------------------------------'
+
+-High Level PL VS Low Level PL
+ ->Low Level PL is close to HW, High level PL is not
+ ->Low Level PL is close to memory, so it is more spead than High Level PL
+ ->High Level PL is easier in writing, reading, and accessing than Low Level PL
+ ->High Level PL has OOP, Low Level PL not
+ ->Low Level PL is C and C++ without OOP, and High Level PL is Python, Java, and C++ with OOP
+ *C++ is the slowest High Level Programming Language
+
+-Compiled PL VS Interpreted PL
+ ->In Compiled PL, the IDE checks the all lines of the code together
+ ->In Interpreted PL, the IDE checks the all lines of the code line by line
+ ->Compiled PL is more spead than than Interpreted PL
+ *C++ is Compiled Programming Language
+
+-Open Source PL VS Not Open Source PL
+ ->In Open Sources PL, the developers can modify in the language and make a copies for themselves
+ ->In Not Open Sources PL, the only companies that have these languages have rights to modify them
+ ->Open Sources PL is Python, 
+ ->Not Open Sources PL is C/C++ (Microsoft), Java (Oracle),  
+
+-Programming PL VS Scripted PL
+ **see 02-Prog. Lang. VS Scrip. Lang.
+
+-Typed PL VS Not Typed PL
+ ->In Typed PL, the developers can specify the datatype of variables as they like
+ ->In Not Typed PL, the langaues 
+
+
+ 

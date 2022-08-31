@@ -1,0 +1,12 @@
+Operating systems are written in low level languages like assembly, C, C++.
+
+Because low languages are close to machine instructions and can able to interact easily with the hardware in less time.
+
+For example:
+
+Unix operating system was totally written in C by Ken Thompson and Dennis retchie.
+
+Windows Os was written mostly in c++, Assembly.
+
+Upper interface of ANDROID Os is totally written in Java,which provides a Java API for interacting with the kernel, 
+the kernel used for Android is Linux kernel,linux kernel is also totally written C with version of GCC.

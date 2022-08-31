@@ -1,0 +1,39 @@
+How to emulate a do while loop in Python
+To create a do while loop in Python, you need to modify the while loop a bit in order to get similar behavior to a do while loop in other languages.
+
+As a refresher so far, a do while loop will run at least once. If the condition is met, then it will run again.
+
+The while loop, on the other hand, doesn't run at least once and may in fact never run. It runs when and only when the condition is met.
+
+So, let's say we have an example where we want a line of code to run at least once.
+
+
+
+secret_word = "python"
+counter = 0
+
+while True:
+    word = input("Enter the secret word: ").lower()
+    counter = counter + 1
+    if word == secret_word:
+        break
+    if word != secret_word and counter > 7: 
+        break
+
+
+
+The code will run at least one time, asking for user input.
+
+It is always guaranteed to run at least once, with True, which otherwise creates an infinite loop.
+
+If the user inputs the correct secret word, the loop is terminated.
+
+If the user enters the wrong secret word more than 7 times, then the loop will be completely exited.
+
+The break statement allows you to control the flow of a while loop and not end up with an infinite loop.
+
+break will immediately terminate the current loop all together and break out of it.
+
+So this is how you create the a similar effect to a do while loop in Python.
+
+The loop always executes at least once. It will continue to loop if a condition is not met and then terminate when a condition is met.

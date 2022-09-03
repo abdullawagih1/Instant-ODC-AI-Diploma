@@ -1,0 +1,26 @@
+=For PC
+الترتيب	     إسم المعالج	  		  
+1	AMD Ryzen 9 5900HX	
+2	Intel Core I9-9900K	
+3	AMD Ryzen 7 5800H	
+4	AMD Ryzen 7 4800H	
+5	AMD Ryzen 9 4900H	
+6	AMD Ryzen 9 4900HS	
+7	Intel Core I9-9980HK	
+8	Intel Xeon W-10885M	
+9	Intel Core I7-10870H	
+10	AMD Ryzen 7 4800HS	
+
+----------------------------------------------------
+=For mobiles
+ترتيب	     إسم المعالج		    	   أحد الهواتف
+#1	Apple A15 Bionic		Apple iPhone 13
+#2	Dimensity 9000 Plus		POCO X5 GT
+#3	Snapdragon 8 Plus Gen 1		Asus ROG Phone 6 Pro
+#4	Dimensity 9000			Vivo X80
+#5	Snapdragon 8 Gen 1		OnePlus 10 Pro
+#6	Apple A14 Bionic		Apple iPhone 12
+#7	Snapdragon 888 Plus		Asus ROG Phone 5S
+#8	Exynos 2200			Samsung Galaxy S22 Ultra
+#9	Snapdragon 888			OnePlus 9
+#10	Dimensity 8100			Realme GT Neo 3

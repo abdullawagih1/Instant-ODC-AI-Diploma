@@ -1,0 +1,18 @@
+conda is both a command line tool, and a python package.
+
+Miniconda installer = Python + conda
+
+Anaconda installer = Python + conda + meta package anaconda
+
+meta Python pkg anaconda = about 160 Python pkgs for daily use in data science
+
+Anaconda installer = Miniconda installer + conda install anaconda
+
+=============================
+-Miniconda gives you the Python interpreter itself, along with a command-line tool called 
+ conda which operates as a cross-platform package manager geared toward Python packages, 
+ similar in spirit to the apt or yum tools that Linux users might be familiar with.
+
+-Anaconda includes both Python and conda, and additionally bundles a suite of other pre-installed 
+ packages geared toward scientific computing. Because of the size of this bundle, expect the installation 
+ to consume several gigabytes of disk space.

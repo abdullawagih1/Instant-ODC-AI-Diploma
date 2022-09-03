@@ -1,0 +1,28 @@
+-A framework is a particular set of rules, ideas, or beliefs which you use in order to deal with problems or to decide what to do.
+ "reusable code"
+
+-Advantages of Frameworks
+  1]- Efficiency: The programmer saves time since he already has the skeleton on which to develop an application.
+  2]- Easy Debugging Process
+  3]- Easy to find tools, modules and information to use it.
+  4]- Security: It provides greater security, having a large part of the potential vulnerabilities resolved.
+  5]- There is usually a community behind it, a set of developers who can help answer queries.
+
+-Framework Examples
+  1]- .Net: is Microsoft Framework and one of the most used.
+  2]- Symphony: PHP free software project.
+  3]- Zend Framework: Open source framework for developing web applications and with PHP web services.
+  4]- Laravel: One of the easiest open source frameworks to assimilate for PHP.
+  5]- Django: open source web development framework written in Python.
+  6]- Ruby on Rails: Open source web application framework written in the Ruby programming language.
+  7]- Angular: open source framework developed in TypeScript and maintained by Google.
+
+-Disadvantages of frameworks
+  1]- Framework Limitations
+      -> The framework’s core behaviour cannot be modified, indicating that when you utilize a framework, 
+         you are required to respect its limitations and work the way it is required. Ensure you choose a 
+         framework that fits your needs.
+  2]- Learning the Framework and Not the Language
+  3]- Code is Public
+      ->Since the framework is readily available to everyone, it is likewise offered to people with bad intentions. 
+        It can be studied in order to know how things work and to discover flaws that can be utilized against you.
